@@ -8,4 +8,4 @@ jwks_client_rs = "0.5.1"
 tokio = { version = "1.45.1", features = ["rt-multi-thread"] }
 axum = { version = "0.8.4", features = ["macros"] }
 reqwest = "0.12.19"
-tracing-subscriber = "0.3.19"
+tracing-subscriber = "0.3.20"
